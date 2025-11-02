@@ -16,7 +16,7 @@ jobs:
         with:
           python-version: '3.x'
       - name: run function main.py
-        run: main.py
+        run: pyhon main.py
         
           
   
